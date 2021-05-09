@@ -1,2 +1,4 @@
 Linus Torval es el creador de git
 Git---> Cibertec
+
+Linus Torvalds es el creador de GIT y el kernel de Linux.
